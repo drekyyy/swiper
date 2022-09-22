@@ -1,4 +1,4 @@
-Simple app to showcase state persistance with bloc. Consists of three screens that you can swipe right or left to get to.
+Simple flutter app to showcase state persistance with bloc. Consists of three screens that you can swipe right or left to get to.
 <br />
 Used:
 - flutter_bloc (state management)
